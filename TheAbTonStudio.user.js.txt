@@ -6,6 +6,7 @@
 // @author       AbTon
 // @match        https://payment.ivacbd.com/
 // @grant        none
+// @resource     CONFIG https://raw.githubusercontent.com/mirabdullahkawsar/The-AbTon-Studio/main/ivac_config.json
 // ==/UserScript==
 
 const CONFIG = {
